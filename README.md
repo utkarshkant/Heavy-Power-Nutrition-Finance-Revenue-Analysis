@@ -11,4 +11,4 @@ Analysis performed on Power BI.
 
 Live Dashboard: https://app.powerbi.com/groups/me/reports/42da6822-0c9a-4ed3-a2a2-df02420f0d8e/ReportSection
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://drive.google.com/file/d/1O5HOXuDtOrRYgW0IZUS3DkobGTGFu8ix/view?usp=sharing)
