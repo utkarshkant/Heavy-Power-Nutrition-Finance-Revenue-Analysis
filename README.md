@@ -9,4 +9,4 @@ Analysis performed on Power BI.
 - Income Statement
 - Financial Simulator
 
-[](https://github.com/utkarshkant/Heavy-Power-Nutrition-Finance-Revenue-Analysis/blob/main/HPO%20Analysis.gif)
+Live Dashboard: https://app.powerbi.com/groups/me/reports/42da6822-0c9a-4ed3-a2a2-df02420f0d8e/ReportSection
