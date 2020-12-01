@@ -13,3 +13,4 @@ Demo
 - [Live Dashboard](https://app.powerbi.com/groups/me/reports/42da6822-0c9a-4ed3-a2a2-df02420f0d8e/ReportSection)
 - [GIF](https://drive.google.com/file/d/1O5HOXuDtOrRYgW0IZUS3DkobGTGFu8ix/view?usp=sharing)
 > <img src="https://drive.google.com/file/d/1O5HOXuDtOrRYgW0IZUS3DkobGTGFu8ix/view?usp=sharing">
+> <img src="https://github.com/utkarshkant/Perrin-Freres-Champagne-Sales-Forecast/blob/master/Perrin%20Freres%20Champagne%20Sales%20Forecast%20-%20Utkarsh%20Kant%20_%20Tableau%20Public.gif">
