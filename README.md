@@ -9,6 +9,6 @@ Analysis performed on Power BI.
 - Income Statement
 - Financial Simulator
 
-Live Dashboard: https://app.powerbi.com/groups/me/reports/42da6822-0c9a-4ed3-a2a2-df02420f0d8e/ReportSection
-
-[GIF](https://drive.google.com/file/d/1O5HOXuDtOrRYgW0IZUS3DkobGTGFu8ix/view?usp=sharing)
+Demo
+- [Live Dashboard](https://app.powerbi.com/groups/me/reports/42da6822-0c9a-4ed3-a2a2-df02420f0d8e/ReportSection)
+- [GIF](https://drive.google.com/file/d/1O5HOXuDtOrRYgW0IZUS3DkobGTGFu8ix/view?usp=sharing)
